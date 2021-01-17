@@ -1,10 +1,4 @@
 esta es la historia de ...
 
-tiene 21 años y nacio en colombia
-
-viviendo en todo el mundo
-
-su fascinante vida
-
-y obra
-gracias
+tiene -- años y nacio en
+mañana hablaremos de otra cosa
